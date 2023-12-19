@@ -6,7 +6,7 @@
 
 </p>
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [About My Game](#-about-my-game)
   - [Features](#-features)
@@ -23,9 +23,11 @@ This Java Ping Pong game is a digital rendition of the classic table tennis game
 - **Score Tracking:** Real-time score updates to keep the competitive spirit alive and kicking.
 
 
-## Tech Used
+## 💻 Tech Used
 
-**Java:** The core programming language used to build the game's logic and interface.
+My game used: 
+
+- **Java:** The core programming language used to build the game's logic and interface.
 
 
 
