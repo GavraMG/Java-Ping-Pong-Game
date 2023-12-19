@@ -1,13 +1,5 @@
 
 # Java Ping Pong Game
-<p align="center" style="margin-top: 220px">
-   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/6179dea6-7abb-41d4-9b1b-0dd13926a31f" alt="forthebadge">
-
-   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/40b00804-e27f-4f9c-8018-b9556001548a" alt="forthebadge">
-
-   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/ffe90b96-25d5-4bea-bbae-fe63f3070b1e" alt="forthebadge">
-
-</p>
 
 <p align="center">
   
