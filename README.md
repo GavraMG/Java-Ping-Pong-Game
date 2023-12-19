@@ -1,5 +1,19 @@
 
 # Java Ping Pong Game
+<p align="center" style="margin-top: 220px">
+   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/6179dea6-7abb-41d4-9b1b-0dd13926a31f" alt="forthebadge">
+
+   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/40b00804-e27f-4f9c-8018-b9556001548a" alt="forthebadge">
+
+   <img src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/ffe90b96-25d5-4bea-bbae-fe63f3070b1e" alt="forthebadge">
+
+</p>
+
+<p align="center">
+  
+  <img width="700" alt="Screen Shot 2023-06-11 at 9 48 06 PM" src="https://github.com/MoschellaV/PortfolioWebsite/assets/58868225/7e4c1920-841b-4bce-a4e3-47ab37bece66">
+
+</p>
 
 This Java Ping Pong game is a digital rendition of the classic table tennis game, crafted entirely in Java. Developed in Grade 11 as a personal project after self-learning Java, it showcases fundamental programming skills and a passion for game development. The game features a simple yet engaging interface where players control paddles to hit a ball back and forth. It's designed to provide a fun and interactive experience, highlighting basic game mechanics like collision detection, scorekeeping, and user input handling.
 
