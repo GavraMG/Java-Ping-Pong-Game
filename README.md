@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img width="700" alt="Screen Shot 2023-06-11 at 9 48 06 PM" src=![Screenshot 2023-12-19 174324](https://github.com/GavraMG/Java-Ping-Pong-Game/assets/145468935/6aff7573-6c5f-46b1-9325-077142afb07f)>
+  src=![Screenshot 2023-12-19 174324](https://github.com/GavraMG/Java-Ping-Pong-Game/assets/145468935/6aff7573-6c5f-46b1-9325-077142afb07f)
 
 </p>
 
