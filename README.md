@@ -16,7 +16,7 @@
 <br/>
 
 ## About My Game
-This Java Ping Pong game is a digital rendition of the classic table tennis game, crafted entirely in Java. Developed in Grade 11 as a personal project after self-learning Java, it showcases fundamental programming skills and a passion for game development. The game features a simple yet engaging interface where players control paddles to hit a ball back and forth. It's designed to provide a fun and interactive experience, highlighting basic game mechanics like collision detection, scorekeeping, and user input handling.
+This Java Ping Pong game is a digital rendition of the classic table tennis game, crafted entirely in Java as a project in my coding class. Developed in Grade 11 as a personal project after self-learning Java, it showcases fundamental programming skills and a passion for game development. The game features a simple yet engaging interface where players control paddles to hit a ball back and forth. It's designed to provide a fun and interactive experience, highlighting basic game mechanics like collision detection, scorekeeping, and user input handling.
 
 <br/>
 
