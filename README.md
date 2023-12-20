@@ -31,7 +31,7 @@ This Java Ping Pong game is a digital rendition of the classic table tennis game
 
 ## 💻 Tech Used
 
-My game used: 
+This game uses: 
 
 - **Java:** The core programming language used to build the game's logic and interface.
 
