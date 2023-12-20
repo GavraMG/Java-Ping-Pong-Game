@@ -1,4 +1,4 @@
-# Java Ping Pong Game
+# 🏓 Java Ping Pong Game
 
 <p align="center">
   
